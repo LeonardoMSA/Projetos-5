@@ -1,0 +1,131 @@
+_id,nome,endereco,especialidade, avaliacao
+1,A Porteira,R Doutor José Maria 804 lj A – Encruzilhada – Recife,
+2,Acauã,"Pátio de São Pedro, 48 - São José – Recife",Carne de Sol
+3,Aconchego do Matuto,"Av. lins Petit, 273 - Boa Vista – Recife",Regional
+4,Adega,"Clube Português - Av. Conselheiro Rosa e Silva, 172 – Graças – Recife",Portuguesa
+5,AlfredãoPituzada,"R. Dom José Lopes, 1200 - Boa Viagem – Recife",Pituzada
+6,AlfredãoPituzada,"Av. Recife, 451 – Imbiribeira – Recife",Pituzada
+7,Alphaiate,"Rua Artur Muniz, 82, loja 18 - Boa Viagem – Recife",Churrascos e Grelhados
+8,Amadeu,"Rua Professor José Brandão, 409 – Boa Viagem – Recife",Internacional
+9,Anjo solto,Avenida Herculano Bandeira - Galeria Joana d'Arc 513 Pina,
+10,Anfitrião,"Rua do Bom Jesus, 183 - Bairro de Recife – Recife",Internacional
+11,Applebee’s,"Rua Padre Carapuceiro, 777- Shopping Boa Viagem - loja BV 01-03/04 A - Boa Viagem – Recife",Americana
+12,Armazém Guimarães,"Rua Baltazar Ferreira, 100 - Boa Viagem – Recife",
+13,Arriégua,"Rua General Polidoro, 955 – Cidade Universitária – Recife",Carne de Sol
+14,Artes y Tacos,"Rua Rio Azul, 363 – Setubal – Recife",Latina
+15,Audrey,"Rua Tenente João Cícero, 202 – Boa Viagem – Recife",Contemporânea
+16,Bangüê,"Pátio de São Pedro, 20 – São José – Recife",Carne de Sol
+17,Bar 10,"Av. Caxangá, 5326 – Iputinga – Recife",Cozinha Contemporânea
+18,Bar do Geraldo,"Rua da Piedade, 107 - Santo Amaro – Recife",Regional
+19,BarbaricoBongiovanni,"Av. Domingos Ferreira, 2655 – Boa Viagem – Recife",Italiana
+20,Bargaço,"Avenida Antônio de Góes, 62 – Pina – Recife",Frutos do Mar
+21,Barroso,"R. Aurora, 1225 - Boa Vista – Recife",Regional
+22,Basílico (Recife Palace Lucsim Hotel),"Av. Boa Viagem, 4070 – Boa Viagem – Recife",Italiana
+23,Biruta Comedorias do Mar,Rua Bem Ti Vi 15 Pina,Frutos do Mar
+24,Bode do Nô,Av Sãp Miguel 1401 Afogados,Regional
+25,Boi Preto Grill,"Avenida Boa Viagem, 97",
+26,Buongustaio (Plaza Casa Forte),Rua Dr. João SantosFilho 255 loja 157 Casa Forte,Italiana
+27,Buongustaio (Shopping Tacaruna),Av Agamenon Magalhães 278 loja 272 D Shopping Tacaruna Santo Amaro,Italiana
+28,Buraquinho,Pátio de São Pedro 28 São José,Galinha de Cabidela
+29,Boi & Brasa,"Av. Boa Viagem, 97- Pina – Recife",Churrasco e Grelhado
+30,Café Porteño,"Rua da Hora, 712 – Espinheiro – Recife",Cozinha Contemporânea
+31,Café Supremo,Rua Dona Benvinda 189 Boa Vista,
+32,Camarada Camarão,Rua Baltazar Pereira 130 Boa Viagem,Frutos do Mar
+33,Camarão do Zito,Rua Badejo 444 Brasília Teimosa,Frutos do Mar
+34,Casa D’Itália – Onda Mar,Rua Ernesto de Paula Santos 284 Boa Viagem,Italiana
+35,Casa Hilda,Av. Oliveira e Lima 784 Boa Vista,Macrobiótico
+36,Casa de Banhos,Molhe de Porto do Recife km 01 Brasília Teimosa,Frutos Mar
+37,Casa de Vera,Rua Bem- Te – Vi Pina,Regional
+38,Casa dos Frios,Av. Eng. Domingos Ferreira 1920 Boa Viagem,Internacional
+39,Castelo do Camarão,Rua Badejo 444 Brasília Teimosa,Frutos do Mar
+40,Catamaran,Cais das Cinco Pontas,Frutos do Mar
+41,Catamaran,"Rua Mamede Simões, 144 / Lj 6,8 e 9 - Santo Antônio – Recife",Contemporânea
+42,Chez Georges,Av. Boa Viagem 1906 3º Jardim Flat Beach Class Térreo Boa Viagem,Francesa
+43,Chez Georges,Av 17 de Agosto 1483 Casa Forte,Francesa
+44,Chica Pitanga,Rua Petrolina 19 Boa Viagem,Self – Service
+45,China in Box,Rua Amaro Coutinho - Espinheiro – Recife,Chinesa
+46,Cipó Nativo Pizza Bar,Rua Dr. João Guilherme de Pontes Sobrinho 245 Boa Viagem,Pizza
+47,Confraria do Mar,Rua Frederico 82 Encruzilhada,Frutos do Mar
+48,Costa Brava,"Rua Barão de Souza Leão, 698 - Boa Viagem – Recife",Cozinha Contemporânea
+49,Da Mira,Av. Dr. Eurico Chaves 916 Casa Amarela,Regional
+50,Dom Ferreira,Av. Domingos Ferreira 4140 Boa Viagem Boa Viagem,
+51,Dom Pedro,Rua do Imperador 376Santo Antônio,Portuguesa
+52,Dona Carolina,Rua Arthur Muniz 82 Boa Viagem,Variada
+53,Douglas Van Der Ley,"Rua Atlântico, 147 - Boa Viagem – Recife",Contemporânea
+54,Edmilson Da Carne de Sol,Rua José Trajano 82 Boa Viagem,Carne de Sol
+55,Entre Amigos,Rua Marquês de Valença 50 Boa Viagem,Bode
+56,Entre Amigos,Rua da Hora 695 Espinheiro,
+57,Espetinho da Ceça,Rua Chã de Alegria 235 Bomba do Hemetério,Espetinho
+58,FamigliaGuiliano,Av. Engenheiro Domingos Ferreira 3980 Boa Viagem,Internacional
+59,Gio,Rua Fernando Simões Barbosa 170 - Boa Viagem,Italiana
+60,Guaiamum Gigante ,Rua Dr. José de Góes 299 Parnamirim,Frutos do Mar
+61,Guaiamum Gigante ,Rua Arthur Muniz 82 Térreo do Edifício Califórnia Boa Viagem,
+62,Haikai,Rua Ernesto de Paula Santos 887 - Boa Viagem,Japonesa
+63,Hakata,Rua Visconde do Livramento 182 Derby,Japonesa
+64,Ilha do Guaiamum,Rua Dona Maria Carolina 68 - Boa Viagem,Frutos do Mar
+65,Imperador,Rua do Imperador Dom Pedro II Santo Antônio,Self-Service
+66,Império dos Camarões,"Rua Badejo, 32 Brasília Teimosa",Frutos do Mar
+67,JalanJalan,Rua Desembargador João Paes 4510 - Boa Viagem,Variada
+68,La GôdolaTomaselli,"Rua Conselheiro Portela, N.º 536 – Espinheiro",Italiana
+69,Leite,"Praça Joaquim Nabuco, N.º 147 - Santo Antônio",Internacional
+70,Macunaíma,"Rua Das Creoulas, N.º 260/268 – Graças",Self-Service
+71,Macunaíma,"Avenida Domingos Ferreira, 2045, Boa Viagem",
+72,Villa Cozinha de Bistrô,"Rua da Hora, 330, Espinheiro",Francesa
+73,Skillus Steak House,"Rua Padre Carapuceiro, 777, 52/53 - Boa Viagem – Recife - Shopping Center Recife",Churrascos e Grelhados
+74,OutbackSteakhouse,"Avenida República do Líbano, 251, loja 1178 Pina - Shopping Rio Mar - Recife – PE. CEP: 51110-160",
+75,Pobre Juan,"Avenida República do Líbano, 251, loja 1181 Pina - Shopping Rio Mar - Recife – PE. CEP: 51110-160",
+76,The Fifties Traditional Burguer,"Avenida República do Líbano, 251, loja 3022Pina - Shopping Rio Mar  - Recife – PE. CEP: 51110-160",
+77,Do Cabo,Rua Nanuque 37 Brasília Teimosa Pina,
+78,Arsenal do Camarão,Praça do Arsenal 59 Recife Antigo,
+79,Azulzinho,Rua General Polidoro 708 Cidade Universitária,
+80,Balcão Centenário,Rua Barão de Itamaracá 10 Espinheiro,
+81,Bar 10,Av Caxangá 5362 (CaxangáGolf  & Country  Club) Iputinga,
+82,Bar 28,Rua Alfredo Lisboa 172Recife Antigo,
+83,Buraco do Sargento,"Pátio De São Pedro, 33, São José",Petiscos
+84,Burburinho,"Rua Tomazina, N.º 106, Em Frente à Igreja Madre de Deus, Recife Antigo",Peteis
+85,Caboclinho,"Estrada dos Remédios,895, Afogados",Petiscos
+86,Cachaçaria Carvalheira,"Rua Manoel Didier, 53 - Boa Viagem",Cachaça
+87,Caldinho da Zezé,"Rua Marquês De Baependi, 122, Campo Grande",Caldinho
+88,Caldinho do Nenem,"Rua Nogueira de Souza, 363, PinaBarraco.Res@Gmail.Com",Frutos do mar
+89,Capibar,"Rua Tapacurá, 101, Casa Forte",
+90,Casa de Zé Nabo,"Rua Macheral Deodoro, 519,Torreão",
+91,Central ,"Rua Mamede Simões, 144, Boa Vista",Petiscos
+92,Clube da Pás,"Rua Odorico Mendes, 263, Campo Grande",
+93,Confraria dos Chifrudos,"Rua Real da Torre, S/N, Mercado da Madalena, Madalena",Regional
+94,Da Beata Ii,"Rua Marechal Bittencourt, 185-A, Poço da Panela",Frutos do mar
+95,Da Dona Geralda,"Praça do Morro Da Conceição, 486 - Casa Amarela",Regional
+96,Da Fava ,"Rua Padre Oliveira Rolin, N.º 37-A, Jardim Beira Rio – Pina",3467 8780
+97,Do Neno,"Rua Padre Roma, 722, Parnamirim",Petisco
+98,Forró do Arlindo,"Av. Hidelbrando de Vasconcelos, Nº 2.900, Dois Unidos",Regional
+99,Manhattan,"Rua Francisco da Cunha, 881, Boa Viagem",Frutos do Mar
+100,Minha Deusa Cachaçaria,"Rua Doutor José Maria, S/N, Largo Da Encruzilhada",Cachaça
+101,Mustang Chopp,Rua José de Alencar 44 Boa Vista,
+102,Oitão,"Rua São Vicente, N.º 245 – Tamarineira",Regional
+103,Sala de Reboco,"Rua Gregório Júnior, N.º 264 – Cordeiro",
+104,Seu Cafofa,"Estrada Do Encanamento, N.º 1400 - Casa Forte",Regional
+105,Tapa de Cuadril,"Rua Leonardo Bezerra Cavalcanti, N.º 117 – Parnamirim",Churrasco/Grelhado
+106,"Arte Plural Café, Atelier E Galeria De Arte","Rua da Moeda, 140, Bairro do Recife",Café
+107,Brennand Café,"Propriedade São Cosme E Damião, S/N (Oficina Cerâmica de Francisco Brennand), Várzea",Café
+108,Café Burle Marx,"Praça de Casa Forte, Galeria Casa Forte, N.º 409, Loja 03 - Casa Forte",Café
+109,Café Cultura,"Rua Madre De Deus, S/N (Livraria Cultura, Anexo Ao Shopping Paço Alfândega), Recife Antigo",Café
+110,Coffee Shop ,"Alameda Antônio Brennand, S/N (Instituto Ricardo Brennand), Várzea",Café
+111,Delta Expresso (Shopping Plaza Casa Forte),"Shopping Plaza Casa Forte, Casa Forte",Café
+112,Dom Café,"Shopping Boa Vista, Boa Vista",Café
+113,São Braz Coffee Shop - Shopping Center Recife,"Rua Pe. Carapuceiro, N°777, B. Viagem",Regional
+114,Wiella Bistrô,"Av. Eng. Domingos Ferreira, 1274, Lojas 14 A 16, Shopping da Decoração, Boa Viagem",
+115,Dalena,"Avenida República do Líbano, 251, loja 2142 – Pina - Shopping Rio Mar - Recife – PE. CEP: 51110-160",
+116,Ile de Crepe,"Av. Conselheiro Aguiar, 2983, Loja 2, Boa Viagem",Crepes
+117,La Plage,"Rua Capitão Sampaio Xavier, 332 – Aflitos",Crepes
+118,As Galerias,"Rua do Bom Jesus, 35, Recife Antigo",Maltado
+119,Bugaloo,"Av. Rui Barbosa, 147, Graças",FastFood
+120,Bugaloo,"Av. Recife, 2879, Ipsep",Variada
+121,Gelattos,"Rua da Guia, 183, Recife Antigo",Sucos
+122,Laça Burguer,"Av. Visconde De Jequitinhonha, 138-A, Boa Viagem",Sanduiches
+123,Pin’upBurgueria,"Av. Herculano Bandeira, 692, Loja 18, Pina",Sanduíches
+124,Tia Dondon,"Rua do Espinheiro, 602Espinheiro",Especialidades:
+125,Restaurante e Pizzaria Atlântico,"Av Conselheiro Aguiar, 542, Pina",
+126,Divino Fogão,"Avenida República do Líbano, 251, loja 3015 Pina - Shopping Rio Mar - Recife – PE. CEP: 51110-160",
+127,Barraca da Mainha,"Praça de Boa Viagem, Boa Viagem",Tapioca
+128,Dona Nicinha,"Rua Floriano Peixoto, S/N, Casa Da Cultura, Santo Antônio",Tapioca
+129,Tapioca da Rosi,"Praça Do Arsenal, Ao Lado Do Box De Informações Ao Turista, Recife Antigo",Tapioca
+130,Donna Brigadeiro,"Avenida República do Líbano, 251, loja 1087 – Pina - Shopping Rio Mar - Recife – PE. CEP: 51110-160",
